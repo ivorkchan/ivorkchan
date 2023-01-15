@@ -1,16 +1,43 @@
-### Hi there 👋
+# This is Ivork Chan.
 
-<!--
-**IvorkChan/IvorkChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For now I'm interested in everything about web.
 
-Here are some ideas to get you started:
+## Design Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a professional designer.
+
+### Software
+
+- Photoshop
+- Illustrator
+- After Effects
+- Sketch
+- Figma
+- Blender
+
+## Dev Skills
+
+I'm a beginner.
+
+### Programming Languages
+
+- Processing
+- JavaScript
+- TypeScript
+
+### Frontend Development
+
+- React
+- HTML
+- CSS
+- Sass
+- Tailwind CSS
+
+### Static Site Generators
+
+- Next.js
+- Hexo
+
+### Hardware
+
+- Arduino
