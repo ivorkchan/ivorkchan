@@ -1,5 +1,7 @@
 # This is Ivork Chan.
 
+For now I'm interested in _React_, _Swift_ and _Unity_.
+
 ## Design Skills
 
 I'm a professional.
@@ -10,21 +12,16 @@ I'm a beginner.
 
 ### Programming Languages
 
-- `Processing`
-- `Max/MSP`
+`Processing` `Max/MSP`
 
 ### Frontend Development
 
-- `React`
-- `HTML`
-- `CSS`
-- `JavaScript`
+`React` `HTML` `CSS` `JavaScript`
 
 ### Static Site Generators
 
-- `Next.js`
-- `Hexo`
+`Next.js` `Hexo`
 
 ### Hardware
 
-- `Arduino`
+`Arduino`
