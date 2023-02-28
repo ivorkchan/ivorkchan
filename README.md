@@ -1,6 +1,3 @@
-# This is Ivork Chan.
+# Ivork Chan
 
-`Arduino` `Processing` `Max/MSP`
-
-`HTML` `CSS` `JavaScript` `React` `Next.js`
-
+https://ivork.me
